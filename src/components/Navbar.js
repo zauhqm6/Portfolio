@@ -15,6 +15,8 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import { FaLinkedinIn } from "react-icons/fa";
+
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -105,12 +107,12 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href="https://www.linkedin.com/in/zainali3/"
                 target="_blank"
                 className="fork-btn-inner"
               >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-                <AiFillStar style={{ fontSize: "1.1em" }} />
+                <FaLinkedinIn  style={{ fontSize: "1.2em" }} />{" "}
+                {/* <AiFillStar style={{ fontSize: "1.1em" }} /> */}
               </Button>
             </Nav.Item>
           </Nav>
