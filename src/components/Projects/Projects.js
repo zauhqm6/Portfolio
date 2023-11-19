@@ -18,6 +18,13 @@ import prime from "../../Assets/Projects/Prime NYC.png";
 import komerce from "../../Assets/Projects/vkommerce.png";
 import vnpk from "../../Assets/Projects/VN.pk.png";
 import vncom from "../../Assets/Projects/vn.com.png";
+import nhe from "../../Assets/Projects/nhe.png";
+import ppm from "../../Assets/Projects/ppm.png";
+import azgard from "../../Assets/Projects/azgard.png";
+import debattle from "../../Assets/Projects/debattle.png";
+import ganymede from "../../Assets/Projects/ganymede.png";
+import metrix from "../../Assets/Projects/metrix.png";
+import asab from "../../Assets/Projects/asab.png";
 
 function Projects() {
   return (
@@ -123,6 +130,7 @@ function Projects() {
               demoLink="https://jumpnation.ae/"              
             />
           </Col>
+
             <Col md={4} className="project-card">
             <ProjectCard
               imgPath={nova}
@@ -156,6 +164,7 @@ function Projects() {
               demoLink="https://patioscreensbyholmes.com/"              
             />
           </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={prime}
@@ -166,6 +175,7 @@ function Projects() {
               demoLink="https://primedomains.nyc/"              
             />
           </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={komerce}
@@ -196,6 +206,83 @@ function Projects() {
               description="As the architect behind a software firm's online presence, I harnessed React JS to sculpt a dynamic website. Leveraging WordPress as a versatile CMS, I seamlessly integrated blogs and services, epitomizing technical prowess."
               // ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://virtuenetz.com"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={nhe}
+              isBlog={false}
+              title="Nova Higher Education"
+              description="As the architect behind a software firm's online presence, I harnessed React JS to sculpt a dynamic website. Leveraging WordPress as a versatile CMS, I seamlessly integrated blogs and services, epitomizing technical prowess."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://nhe.nit.edu.au/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={asab}
+              isBlog={false}
+              title="Al-Asab"
+              description="As the architect behind a software firm's online presence, I harnessed React JS to sculpt a dynamic website. Leveraging WordPress as a versatile CMS, I seamlessly integrated blogs and services, epitomizing technical prowess."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://alasab.com/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={azgard}
+              isBlog={false}
+              title="Azgard Properties"
+              description="As the architect behind a software firm's online presence, I harnessed React JS to sculpt a dynamic website. Leveraging WordPress as a versatile CMS, I seamlessly integrated blogs and services, epitomizing technical prowess."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://azgard.ae/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ppm}
+              isBlog={false}
+              title="Pictogram Place Makers"
+              description="As the architect behind a software firm's online presence, I harnessed React JS to sculpt a dynamic website. Leveraging WordPress as a versatile CMS, I seamlessly integrated blogs and services, epitomizing technical prowess."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://pplacemakers.wixsite.com/website-1"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={debattle}
+              isBlog={false}
+              title="Debattle"
+              description="As the architect behind a software firm's online presence, I harnessed React JS to sculpt a dynamic website. Leveraging WordPress as a versatile CMS, I seamlessly integrated blogs and services, epitomizing technical prowess."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://debattle.co.uk/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ganymede}
+              isBlog={false}
+              title="Ganymede"
+              description="As the architect behind a software firm's online presence, I harnessed React JS to sculpt a dynamic website. Leveraging WordPress as a versatile CMS, I seamlessly integrated blogs and services, epitomizing technical prowess."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://ganymede.gs/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={metrix}
+              isBlog={false}
+              title="Metrix +"
+              description="As the architect behind a software firm's online presence, I harnessed React JS to sculpt a dynamic website. Leveraging WordPress as a versatile CMS, I seamlessly integrated blogs and services, epitomizing technical prowess."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://metrixplus.com/"
             />
           </Col>
 

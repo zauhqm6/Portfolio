@@ -22,9 +22,9 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in classics like 
               <i>
-                <b className="purple">HTML , CSS , JAVASCRIPT , BOOTSTRAP , TAILWIND CSS and React JS </b>
+                <b className="purple">HTML , CSS , JAVASCRIPT , BOOTSTRAP , TAILWIND CSS, PHP, Wordpress, Webflow and React JS </b>
               </i>
               <br />
               <br />

@@ -85,7 +85,7 @@ button:focus {
 .navbar {
   position: fixed !important;
   transition: all 0.3s ease-out 0s !important;
-  padding: 0.3rem 2rem !important;
+  padding: 1.3rem 2rem !important;
   font-size: 1.2rem !important;
 }
 
@@ -321,7 +321,7 @@ button:focus {
 .home-about-section {
   position: relative;
   padding-bottom: 70px !important;
-  padding-top: 70px !important;
+  /* padding-top: 70px !important; */
 }
 
 .home-about-description {
@@ -467,6 +467,7 @@ button:focus {
   opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
+  border-radius: 10px !important;
 }
 .project-card-view:hover {
   transform: scale(1.02) !important;
@@ -506,12 +507,11 @@ button:focus {
 }
 
 .card-img-top {
-  padding: 20px !important;
   opacity: 0.8 !important;
   border-radius: 10px !important;
   min-height: 200px;
-  object-fit: contain;
-  max-height: 260px;
+  object-fit: cover;
+  max-height: 200px;
 }
 
 .blog-img {
