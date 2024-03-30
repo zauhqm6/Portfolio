@@ -10,11 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "start" }}>
             Hi Everyone, I am <span className="purple">Zain Ali </span>
             from <span className="purple">Rahim Yar Khan , Pakistan</span>
-            <br /> I am a 2  year student pursuing BSCS.
-            <br />
-            Additionally, I am currently employed as a Front End Developer at
-            Virtuenetz.
-            <br />
+            <br /> I am a BSCS Graduate with over 3years of experience.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
