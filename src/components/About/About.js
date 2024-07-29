@@ -6,6 +6,8 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/Code typing-bro.svg";
 import Toolstack from "./Toolstack";
+import Experience from './Experience';
+
 
 function About() {
   return (
@@ -21,23 +23,27 @@ function About() {
               paddingBottom: "50px",
             }}
           >
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px", textAlign:'start' }}>
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px", textAlign: 'start' }}>
               Know Who <strong className="purple">I'M</strong>
             </h1>
             <Aboutcard />
           </Col>
           <Col
             md={5}
-            style={{  paddingBottom: "50px" }}
+            style={{ paddingBottom: "50px" }}
             className="about-img"
           >
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
+
+
+        <Experience />
+
+
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
-
         <Techstack />
 
         <h1 className="project-heading">

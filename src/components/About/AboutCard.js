@@ -9,8 +9,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "start" }}>
             Hi Everyone, I am <span className="purple">Zain Ali </span>
-            from <span className="purple">Rahim Yar Khan , Pakistan</span>
-            <br /> I am a BSCS Graduate with over 3years of experience.
+            from <span className="purple">Pakistan</span>
+            <br /> I am a BSCS Graduate with over 3years of Web Development experience.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
