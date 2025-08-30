@@ -7,32 +7,61 @@ import './exp.css'; // Import custom styles
 const Experience = () => {
     const experiences = [
         {
-            title: "MERN & WordPress & Shopify Developer",
-            company: "GrabSomeFurniture",
-            duration: "January 2024 - Present",
-            location: "UK (remote)",
+            title: "Web Developer (Part-time)",
+            company: "Techzir Solutions",
+            duration: "June 2025 – Present",
+            location: "Remote",
             description: [
-                "Collaborated with designers, copywriters, and the marketing team to launch 4 products internationally, enhancing market reach.",
-                "Ensured seamless integration of design elements, content, and marketing strategies for optimal user experience and visibility.",
-                "Assisted in building and maintaining MERN stack applications, including frontend (React) and backend (Node.js) development.",
-                "Contributed to the design and development of RESTful APIs to support frontend functionalities.",
-                "Integrated MongoDB for efficient data management and improved application performance.",
-                "Participated in code reviews and collaborated with senior developers to refine coding practices and optimize application performance."
+                "Built and customized 10+ WordPress websites, enhancing performance and mobile responsiveness.",
+                "Developed reusable frontend components using HTML, CSS, and JavaScript, cutting development time by 20%.",
+                "Optimized site loading speed, reducing average load times by up to 35% and improving SEO rankings.",
+                "Resolved daily website issues and implemented updates, ensuring 99%+ uptime across client sites.",
+                "Improved UI/UX by translating design concepts into interactive, mobile-friendly pages, boosting user engagement by 25%.",
+                "Collaborated with clients to deliver tailored solutions, achieving a 95%+ satisfaction rate."
             ],
-            color: "#f0f8ff" // Light color for styling
+            color: "#f0f8ff"
         },
         {
-            title: "WordPress & Front End Developer",
+            title: "Web Developer & Website Manager",
+            company: "GForce Tyres",
+            duration: "August 2024 – Present",
+            location: "UK (Remote)",
+            description: [
+                "Managing and maintaining 25+ websites, ensuring 99% uptime and 30% faster load times.",
+                "Implementing security protocols, reducing vulnerabilities by 40% across all managed sites.",
+                "Developing, customizing, and maintaining WordPress themes, plugins, and APIs for improved site functionality and efficiency (+25% improvement).",
+                "Collaborating with UI/UX designers to enhance user experience, resulting in a 20% increase in user engagement.",
+                "Ensuring cross-browser compatibility, accessibility compliance, and mobile responsiveness for a seamless browsing experience.",
+                "Integrating Google Analytics and conducting SEO optimization to enhance visibility and track performance."
+            ],
+            color: "#e6ffe6"
+        },
+        {
+            title: "WordPress Developer",
+            company: "GrabSomeFurniture",
+            duration: "January 2024 – August 2024",
+            location: "UK (Remote)",
+            description: [
+                "Designed, developed, and maintained 2 WooCommerce business websites and 2 agency-related websites, boosting sales by 40%.",
+                "Implemented Google Analytics tracking and front-end SEO optimizations, increasing organic traffic.",
+                "Launched 4 key products in international markets by collaborating with designers, copywriters, and marketing teams.",
+                "Built a custom job management system using MERN stack, enhancing internal workflow efficiency."
+            ],
+            color: "#f0f8ff"
+        },
+        {
+            title: "WordPress & Frontend Engineer",
             company: "Virtuenetz",
-            duration: "May 2021 - December 2023",
+            duration: "May 2021 – December 2023",
             location: "Pakistan",
             description: [
-                "Developed over 35 high-impact, responsive websites using HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, WordPress, and PHP, resulting in improved performance and increased user engagement.",
-                "Utilized WordPress to create 20 dynamic websites, leading to a 25% increase in client satisfaction and a 10% boost in website traffic.",
-                "Mentored 40 interns, reducing onboarding time by 40% through focused training workshops and code reviews.",
-                "Effectively communicated technical concepts to non-technical stakeholders, collaborating with cross-functional teams on 15 projects to increase development efficiency by 20%."
+                "Developed 35+ high-impact, responsive websites using HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, WordPress, and PHP, improving performance and user engagement.",
+                "Created 20 dynamic WordPress websites, increasing client satisfaction by 25% and driving 10% more web traffic.",
+                "Mentored 40 interns, reducing onboarding time by 40% through structured training sessions and code reviews.",
+                "Worked closely with backend teams to integrate RESTful APIs, optimize website performance, and implement best security practices.",
+                "Effectively communicated technical concepts to cross-functional teams, improving development efficiency by 20%."
             ],
-            color: "#e6ffe6" // Light color for styling
+            color: "#e6ffe6"
         }
     ];
 
