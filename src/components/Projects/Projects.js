@@ -258,16 +258,16 @@ function Projects() {
               {
                 imgPath: mall,
                 isBlog: false,
-                title: "Mall Project",
+                title: "Malling Repair Services",
                 description: "I've created a modern e-commerce platform for a shopping mall, providing seamless online shopping experiences. This digital marketplace connects retailers with customers through an intuitive and responsive interface.",
-                demoLink: "https://example.com/mall"
+                demoLink: "https://mallingrepairservice.com/"
               },
               {
                 imgPath: mts,
                 isBlog: false,
-                title: "MTS Solutions",
+                title: "Mobile Tyre Surgeons",
                 description: "I've developed a comprehensive business solutions website that showcases innovative services and technologies. This platform demonstrates our commitment to delivering cutting-edge solutions for modern businesses.",
-                demoLink: "https://example.com/mts"
+                demoLink: "https://mobiletyresurgeons.com/"
               },
               {
                 imgPath: pgvillage,
@@ -335,7 +335,7 @@ function Projects() {
               {
                 imgPath: pjtyres,
                 isBlog: false,
-                title: "PJ Tyres Newcastle",
+                title: "PJ Tyres",
                 description: "I've developed a professional tyre and automotive service website offering reliable tyres, servicing, and vehicle repairs in Newcastle Upon Tyne. This platform ensures customers receive quality automotive solutions.",
                 demoLink: "https://pjtyres.co.uk"
               },
