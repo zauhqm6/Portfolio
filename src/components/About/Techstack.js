@@ -17,7 +17,7 @@ import {
   SiContentful,
   SiWoocommerce,
   SiWebflow,
-  SiShopify,
+  // SiShopify,
   SiNodedotjs,      // Correct for Node.js
   SiExpress,
   SiMongodb,
@@ -31,7 +31,7 @@ import {
   SiFigma,
   SiGoogleanalytics,
   SiGit,
-  SiRedux,
+  // SiRedux,
   SiGooglechrome,   // Correct for Chrome DevTools
   SiGoogletagmanager // Correct for Google Tag Manager
 } from "react-icons/si";
